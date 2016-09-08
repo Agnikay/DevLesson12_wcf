@@ -1,0 +1,6 @@
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\WeatherClient\bin\Debug\WeatherClient.exe.config
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\WeatherClient\bin\Debug\WeatherClient.exe
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\WeatherClient\bin\Debug\WeatherClient.pdb
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\WeatherClient\obj\Debug\WeatherClient.csprojResolveAssemblyReference.cache
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\WeatherClient\obj\Debug\WeatherClient.exe
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\WeatherClient\obj\Debug\WeatherClient.pdb

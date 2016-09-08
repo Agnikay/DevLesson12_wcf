@@ -1,0 +1,5 @@
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\LessonCode\bin\Debug\LessonCode.exe.config
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\LessonCode\bin\Debug\LessonCode.exe
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\LessonCode\bin\Debug\LessonCode.pdb
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\LessonCode\obj\Debug\LessonCode.exe
+D:\MC\Lectures\Dev\Lesson12_wcf.p2\LessonCode\LessonCode\obj\Debug\LessonCode.pdb
